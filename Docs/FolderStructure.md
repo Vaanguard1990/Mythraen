@@ -5,6 +5,7 @@ Mythraen/
 ├── Config/                 # Unreal configuration
 ├── Content/
 │   ├── Core/               # Shared assets, tags, data
+│   │   └── Input/          # Input actions and mapping contexts
 │   ├── Characters/
 │   ├── Environment/
 │   ├── UI/
