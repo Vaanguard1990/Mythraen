@@ -3,9 +3,12 @@
 ## Milestone 0 — Bootstrap
 
 - [x] Establish repository documentation and conventions
-- [ ] Create Unreal project and C++ module
-- [ ] Configure default maps and game framework
-- [ ] Add base player character and camera
+- [x] Create Unreal project and C++ module
+- [x] Add base player character and camera
+- [x] Add Enhanced Input movement, look and jump bindings
+- [ ] Configure default maps and game framework — code and config are in place;
+      the input assets, Blueprints and test map still have to be authored in the
+      editor (see [EditorSetup.md](EditorSetup.md))
 
 ## Milestone 1 — Build 0.1: Brumavia
 

@@ -15,13 +15,14 @@ Explore the mist-covered region of Brumavia, forge relationships with its inhabi
 
 ## Project status
 
-The repository bootstrap and technical foundation are in progress. See [Docs/Roadmap.md](Docs/Roadmap.md) for the delivery plan.
+The C++ foundation is in place: project and module definitions, a base game mode, and a third-person character with Enhanced Input movement, look and jump. Content assets (input assets, Blueprints, first map) are not authored yet. See [Docs/Roadmap.md](Docs/Roadmap.md) for the delivery plan.
 
 ## Getting started
 
 1. Install Unreal Engine 5.4 or a compatible later UE5 release.
-2. Open `Mythraen.uproject` once it is added to the repository.
+2. Open `Mythraen.uproject`.
 3. Generate IDE project files and build the `MythraenEditor` target.
+4. Follow [Docs/EditorSetup.md](Docs/EditorSetup.md) to create the input assets, Blueprints and test map the C++ classes expect.
 
 ## License
 
